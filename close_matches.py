@@ -193,5 +193,8 @@ def autodetect_election_cols(columns, include_cvap = False):
 if __name__ == "__main__":
     pcts = gpd.read_file("./data/geometries/MA_pcts")
     vtds = gpd.read_file("./data/geometries/MA_vtd20.geojson")
-    print(close_matches(pcts, vtds))
+    vtds = vtds.to_crs(pcts.crs)
+    vtds = vtds.set_index("NAMELSAD20")
+    pcts = pcts.set_index("NAME")
+    close_matches(pcts, vtds).to_file("./data/shape-mapping.csv")
 
