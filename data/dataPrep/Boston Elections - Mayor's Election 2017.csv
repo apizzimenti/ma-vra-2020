@@ -1,0 +1,255 @@
+MATCH,District,Ward,Precinct,MAY17_Jackson,MAY17_Walsh
+Boston Ward 1 Precinct 1,1-1,1,1,162,315
+Boston Ward 1 Precinct 2,1-2,1,2,98,189
+Boston Ward 1 Precinct 3,1-3,1,3,233,453
+Boston Ward 1 Precinct 4,1-4,1,4,59,162
+Boston Ward 1 Precinct 5,1-5,1,5,87,254
+Boston Ward 1 Precinct 6,1-6,1,6,81,219
+Boston Ward 1 Precinct 7,1-7,1,7,76,251
+Boston Ward 1 Precinct 8,1-8,1,8,124,337
+Boston Ward 1 Precinct 9,1-9,1,9,90,248
+Boston Ward 1 Precinct 10,1-10,1,10,31,152
+Boston Ward 1 Precinct 11,1-11,1,11,100,433
+Boston Ward 1 Precinct 12,1-12,1,12,129,383
+Boston Ward 1 Precinct 13,1-13,1,13,144,468
+Boston Ward 1 Precinct 14,1-14,1,14,61,247
+Boston Ward 2 Precinct 1,2-1,2,1,130,632
+Boston Ward 2 Precinct 2,2-2,2,2,164,686
+Boston Ward 2 Precinct 3,2-3,2,3,128,431
+Boston Ward 2 Precinct 4,2-4,2,4,110,417
+Boston Ward 2 Precinct 5,2-5,2,5,98,467
+Boston Ward 2 Precinct 6,2-6,2,6,143,671
+Boston Ward 2 Precinct 7,2-7,2,7,103,450
+Boston Ward 3 Precinct 1,3-1,3,1,233,832
+Boston Ward 3 Precinct 2,3-2,3,2,118,325
+Boston Ward 3 Precinct 3,3-3,3,3,96,395
+Boston Ward 3 Precinct 4,3-4,3,4,101,439
+Boston Ward 3 Precinct 5,3-5,3,5,213,430
+Boston Ward 3 Precinct 6,3-6,3,6,214,506
+Boston Ward 3 Precinct 7,3-7,3,7,297,911
+Boston Ward 3 Precinct 8,3-8,3,8,220,"1,039"
+Boston Ward 4 Precinct 1,4-1,4,1,179,478
+Boston Ward 4 Precinct 2,4-2,4,2,205,488
+Boston Ward 4 Precinct 3,4-3,4,3,122,295
+Boston Ward 4 Precinct 4,4-4,4,4,163,295
+Boston Ward 4 Precinct 5,4-5,4,5,122,215
+Boston Ward 4 Precinct 6,4-6,4,6,95,178
+Boston Ward 4 Precinct 7,4-7,4,7,85,164
+Boston Ward 4 Precinct 8,4-8,4,8,90,171
+Boston Ward 4 Precinct 9,4-9,4,9,55,66
+Boston Ward 4 Precinct 10,4-10,4,10,34,27
+Boston Ward 5 Precinct 1,5-1,5,1,251,998
+Boston Ward 5 Precinct 2,5-2,5,2,101,150
+Boston Ward 5 Precinct 2A,5-2A,5,2A,42,111
+Boston Ward 5 Precinct 3,5-3,5,3,111,232
+Boston Ward 5 Precinct 4,5-4,5,4,116,248
+Boston Ward 5 Precinct 5,5-5,5,5,67,168
+Boston Ward 5 Precinct 6,5-6,5,6,110,239
+Boston Ward 5 Precinct 7,5-7,5,7,133,349
+Boston Ward 5 Precinct 8,5-8,5,8,94,308
+Boston Ward 5 Precinct 9,5-9,5,9,147,291
+Boston Ward 5 Precinct 10,5-10,5,10,90,195
+Boston Ward 5 Precinct 11,5-11,5,11,83,236
+Boston Ward 6 Precinct 1,6-1,6,1,235,712
+Boston Ward 6 Precinct 2,6-2,6,2,77,285
+Boston Ward 6 Precinct 3,6-3,6,3,61,324
+Boston Ward 6 Precinct 4,6-4,6,4,92,371
+Boston Ward 6 Precinct 5,6-5,6,5,82,334
+Boston Ward 6 Precinct 6,6-6,6,6,60,448
+Boston Ward 6 Precinct 7,6-7,6,7,94,368
+Boston Ward 6 Precinct 8,6-8,6,8,75,371
+Boston Ward 6 Precinct 9,6-9,6,9,71,366
+Boston Ward 7 Precinct 1,7-1,7,1,86,414
+Boston Ward 7 Precinct 2,7-2,7,2,82,439
+Boston Ward 7 Precinct 3,7-3,7,3,98,520
+Boston Ward 7 Precinct 4,7-4,7,4,94,330
+Boston Ward 7 Precinct 5,7-5,7,5,92,279
+Boston Ward 7 Precinct 6,7-6,7,6,89,267
+Boston Ward 7 Precinct 7,7-7,7,7,77,232
+Boston Ward 7 Precinct 8,7-8,7,8,85,253
+Boston Ward 7 Precinct 9,7-9,7,9,72,249
+Boston Ward 7 Precinct 10,7-10,7,10,79,195
+Boston Ward 8 Precinct 1,8-1,8,1,106,227
+Boston Ward 8 Precinct 2,8-2,8,2,210,332
+Boston Ward 8 Precinct 3,8-3,8,3,165,89
+Boston Ward 8 Precinct 4,8-4,8,4,108,87
+Boston Ward 8 Precinct 5,8-5,8,5,141,221
+Boston Ward 8 Precinct 6,8-6,8,6,41,78
+Boston Ward 8 Precinct 7,8-7,8,7,125,100
+Boston Ward 9 Precinct 1,9-1,9,1,188,428
+Boston Ward 9 Precinct 2,9-2,9,2,214,329
+Boston Ward 9 Precinct 3,9-3,9,3,306,258
+Boston Ward 9 Precinct 4,9-4,9,4,186,235
+Boston Ward 9 Precinct 5,9-5,9,5,408,256
+Boston Ward 10 Precinct 1,10-1,10,1,80,175
+Boston Ward 10 Precinct 2,10-2,10,2,76,107
+Boston Ward 10 Precinct 3,10-3,10,3,52,112
+Boston Ward 10 Precinct 4,10-4,10,4,114,281
+Boston Ward 10 Precinct 5,10-5,10,5,118,118
+Boston Ward 10 Precinct 6,10-6,10,6,129,161
+Boston Ward 10 Precinct 7,10-7,10,7,155,248
+Boston Ward 10 Precinct 8,10-8,10,8,206,277
+Boston Ward 10 Precinct 9,10-9,10,9,266,273
+Boston Ward 11 Precinct 1,11-1,11,1,197,69
+Boston Ward 11 Precinct 2,11-2,11,2,278,207
+Boston Ward 11 Precinct 3,11-3,11,3,197,123
+Boston Ward 11 Precinct 4,11-4,11,4,294,258
+Boston Ward 11 Precinct 5,11-5,11,5,230,223
+Boston Ward 11 Precinct 6,11-6,11,6,261,180
+Boston Ward 11 Precinct 7,11-7,11,7,339,187
+Boston Ward 11 Precinct 8,11-8,11,8,311,265
+Boston Ward 11 Precinct 9,11-9,11,9,223,176
+Boston Ward 11 Precinct 10,11-10,11,10,258,181
+Boston Ward 12 Precinct 1,12-1,12,1,340,190
+Boston Ward 12 Precinct 2,12-2,12,2,338,212
+Boston Ward 12 Precinct 3,12-3,12,3,200,112
+Boston Ward 12 Precinct 4,12-4,12,4,191,112
+Boston Ward 12 Precinct 5,12-5,12,5,126,120
+Boston Ward 12 Precinct 6,12-6,12,6,161,138
+Boston Ward 12 Precinct 7,12-7,12,7,376,260
+Boston City Ward 12 Precinct 8,12-8,12,8,122,70
+Boston City Ward 12 Precinct 9,12-9,12,9,183,118
+Boston City Ward 13 Precinct 1,13-1,13,1,180,213
+Boston City Ward 13 Precinct 2,13-2,13,2,63,67
+Boston City Ward 13 Precinct 3,13-3,13,3,91,155
+Boston City Ward 13 Precinct 4,13-4,13,4,127,108
+Boston City Ward 13 Precinct 5,13-5,13,5,100,164
+Boston City Ward 13 Precinct 6,13-6,13,6,126,279
+Boston City Ward 13 Precinct 7,13-7,13,7,102,367
+Boston City Ward 13 Precinct 8,13-8,13,8,100,278
+Boston City Ward 13 Precinct 9,13-9,13,9,98,304
+Boston City Ward 13 Precinct 10,13-10,13,10,151,609
+Boston City Ward 14 Precinct 1,14-1,14,1,217,230
+Boston City Ward 14 Precinct 2,14-2,14,2,319,269
+Boston City Ward 14 Precinct 3,14-3,14,3,138,141
+Boston City Ward 14 Precinct 4,14-4,14,4,144,153
+Boston City Ward 14 Precinct 5,14-5,14,5,86,154
+Boston City Ward 14 Precinct 6,14-6,14,6,147,123
+Boston City Ward 14 Precinct 7,14-7,14,7,129,103
+Boston City Ward 14 Precinct 8,14-8,14,8,166,162
+Boston City Ward 14 Precinct 9,14-9,14,9,95,130
+Boston City Ward 14 Precinct 10,14-10,14,10,152,163
+Boston City Ward 14 Precinct 11,14-11,14,11,137,125
+Boston City Ward 14 Precinct 12,14-12,14,12,93,99
+Boston City Ward 14 Precinct 13,14-13,14,13,141,141
+Boston City Ward 14 Precinct 14,14-14,14,14,150,162
+Boston City Ward 15 Precinct 1,15-1,15,1,130,150
+Boston City Ward 15 Precinct 2,15-2,15,2,77,114
+Boston City Ward 15 Precinct 3,15-3,15,3,40,79
+Boston City Ward 15 Precinct 4,15-4,15,4,144,250
+Boston City Ward 15 Precinct 5,15-5,15,5,112,174
+Boston City Ward 15 Precinct 6,15-6,15,6,49,195
+Boston City Ward 15 Precinct 7,15-7,15,7,114,147
+Boston City Ward 15 Precinct 8,15-8,15,8,83,163
+Boston City Ward 15 Precinct 9,15-9,15,9,109,154
+Boston City Ward 16 Precinct 1,16-1,16,1,108,178
+Boston City Ward 16 Precinct 2,16-2,16,2,49,250
+Boston City Ward 16 Precinct 3,16-3,16,3,153,235
+Boston City Ward 16 Precinct 4,16-4,16,4,106,253
+Boston City Ward 16 Precinct 5,16-5,16,5,82,238
+Boston City Ward 16 Precinct 6,16-6,16,6,190,333
+Boston City Ward 16 Precinct 7,16-7,16,7,79,469
+Boston City Ward 16 Precinct 8,16-8,16,8,105,485
+Boston City Ward 16 Precinct 9,16-9,16,9,63,585
+Boston City Ward 16 Precinct 10,16-10,16,10,52,380
+Boston City Ward 16 Precinct 11,16-11,16,11,97,491
+Boston City Ward 16 Precinct 12,16-12,16,12,34,653
+Boston City Ward 17 Precinct 1,17-1,17,1,130,135
+Boston City Ward 17 Precinct 2,17-2,17,2,95,111
+Boston City Ward 17 Precinct 3,17-3,17,3,247,288
+Boston City Ward 17 Precinct 4,17-4,17,4,229,399
+Boston City Ward 17 Precinct 5,17-5,17,5,100,96
+Boston City Ward 17 Precinct 6,17-6,17,6,188,192
+Boston City Ward 17 Precinct 7,17-7,17,7,94,91
+Boston City Ward 17 Precinct 8,17-8,17,8,166,159
+Boston City Ward 17 Precinct 9,17-9,17,9,148,193
+Boston City Ward 17 Precinct 10,17-10,17,10,206,224
+Boston City Ward 17 Precinct 11,17-11,17,11,92,76
+Boston City Ward 17 Precinct 12,17-12,17,12,121,202
+Boston City Ward 17 Precinct 13,17-13,17,13,133,376
+Boston City Ward 17 Precinct 14,17-14,17,14,178,298
+Boston City Ward 18 Precinct 1,18-1,18,1,252,351
+Boston City Ward 18 Precinct 2,18-2,18,2,152,227
+Boston City Ward 18 Precinct 3,18-3,18,3,257,228
+Boston City Ward 18 Precinct 4,18-4,18,4,193,250
+Boston City Ward 18 Precinct 5,18-5,18,5,236,308
+Boston City Ward 18 Precinct 6,18-6,18,6,288,310
+Boston City Ward 18 Precinct 7,18-7,18,7,170,278
+Boston City Ward 18 Precinct 8,18-8,18,8,269,418
+Boston City Ward 18 Precinct 9,18-9,18,9,165,328
+Boston City Ward 18 Precinct 10,18-10,18,10,276,465
+Boston City Ward 18 Precinct 11,18-11,18,11,126,220
+Boston City Ward 18 Precinct 12,18-12,18,12,135,330
+Boston City Ward 18 Precinct 13,18-13,18,13,92,157
+Boston City Ward 18 Precinct 14,18-14,18,14,95,167
+Boston City Ward 18 Precinct 15,18-15,18,15,137,271
+Boston City Ward 18 Precinct 16,18-16,18,16,143,512
+Boston City Ward 18 Precinct 17,18-17,18,17,126,377
+Boston City Ward 18 Precinct 18,18-18,18,18,156,456
+Boston City Ward 18 Precinct 19,18-19,18,19,237,483
+Boston City Ward 18 Precinct 20,18-20,18,20,162,585
+Boston City Ward 18 Precinct 21,18-21,18,21,271,271
+Boston City Ward 18 Precinct 22,18-22,18,22,177,445
+Boston City Ward 18 Precinct 23,18-23,18,23,111,226
+Boston City Ward 19 Precinct 1,19-1,19,1,276,209
+Boston City Ward 19 Precinct 2,19-2,19,2,245,395
+Boston City Ward 19 Precinct 3,19-3,19,3,199,232
+Boston City Ward 19 Precinct 4,19-4,19,4,318,313
+Boston City Ward 19 Precinct 5,19-5,19,5,245,271
+Boston City Ward 19 Precinct 6,19-6,19,6,389,347
+Boston City Ward 19 Precinct 7,19-7,19,7,321,252
+Boston City Ward 19 Precinct 8,19-8,19,8,168,162
+Boston City Ward 19 Precinct 9,19-9,19,9,154,154
+Boston City Ward 19 Precinct 10,19-10,19,10,247,342
+Boston City Ward 19 Precinct 11,19-11,19,11,182,207
+Boston City Ward 19 Precinct 12,19-12,19,12,182,275
+Boston City Ward 19 Precinct 13,19-13,19,13,141,187
+Boston City Ward 20 Precinct 1,20-1,20,1,166,378
+Boston City Ward 20 Precinct 2,20-2,20,2,232,321
+Boston City Ward 20 Precinct 3,20-3,20,3,137,348
+Boston City Ward 20 Precinct 4,20-4,20,4,256,282
+Boston City Ward 20 Precinct 5,20-5,20,5,112,460
+Boston City Ward 20 Precinct 6,20-6,20,6,144,495
+Boston City Ward 20 Precinct 7,20-7,20,7,123,292
+Boston City Ward 20 Precinct 8,20-8,20,8,139,277
+Boston City Ward 20 Precinct 9,20-9,20,9,144,308
+Boston City Ward 20 Precinct 10,20-10,20,10,168,521
+Boston City Ward 20 Precinct 11,20-11,20,11,111,216
+Boston City Ward 20 Precinct 12,20-12,20,12,83,333
+Boston City Ward 20 Precinct 13,20-13,20,13,83,276
+Boston City Ward 20 Precinct 14,20-14,20,14,85,315
+Boston City Ward 20 Precinct 15,20-15,20,15,111,472
+Boston City Ward 20 Precinct 16,20-16,20,16,95,499
+Boston City Ward 20 Precinct 17,20-17,20,17,134,556
+Boston City Ward 20 Precinct 18,20-18,20,18,85,272
+Boston City Ward 20 Precinct 19,20-19,20,19,81,308
+Boston City Ward 20 Precinct 20,20-20,20,20,122,411
+Boston City Ward 21 Precinct 1,21-1,21,1,92,147
+Boston City Ward 21 Precinct 2,21-2,21,2,24,25
+Boston City Ward 21 Precinct 3,21-3,21,3,74,61
+Boston City Ward 21 Precinct 4,21-4,21,4,72,58
+Boston City Ward 21 Precinct 5,21-5,21,5,124,115
+Boston City Ward 21 Precinct 6,21-6,21,6,121,160
+Boston City Ward 21 Precinct 7,21-7,21,7,119,133
+Boston City Ward 21 Precinct 8,21-8,21,8,142,119
+Boston City Ward 21 Precinct 9,21-9,21,9,128,133
+Boston City Ward 21 Precinct 10,21-10,21,10,100,210
+Boston City Ward 21 Precinct 11,21-11,21,11,127,168
+Boston City Ward 21 Precinct 12,21-12,21,12,129,228
+Boston City Ward 21 Precinct 13,21-13,21,13,113,418
+Boston City Ward 21 Precinct 14,21-14,21,14,76,77
+Boston City Ward 21 Precinct 15,21-15,21,15,103,110
+Boston City Ward 21 Precinct 16,21-16,21,16,108,215
+Boston City Ward 22 Precinct 1,22-1,22,1,186,240
+Boston City Ward 22 Precinct 2,22-2,22,2,236,268
+Boston City Ward 22 Precinct 3,22-3,22,3,153,267
+Boston City Ward 22 Precinct 4,22-4,22,4,95,242
+Boston City Ward 22 Precinct 5,22-5,22,5,79,129
+Boston City Ward 22 Precinct 6,22-6,22,6,83,295
+Boston City Ward 22 Precinct 7,22-7,22,7,125,295
+Boston City Ward 22 Precinct 8,22-8,22,8,77,213
+Boston City Ward 22 Precinct 9,22-9,22,9,99,177
+Boston City Ward 22 Precinct 10,22-10,22,10,149,237
+Boston City Ward 22 Precinct 11,22-11,22,11,90,168
+Boston City Ward 22 Precinct 12,22-12,22,12,84,196
+Boston City Ward 22 Precinct 13,22-13,22,13,77,176
