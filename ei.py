@@ -63,10 +63,22 @@ cmap = {
     "cullinane": "SH18P_Suff12_DCullinane",
     "lacet": "SH18P_Suff12_JLacet",
     "sh16cullinane": "SH16P_Suff12_DCullinane",
-    "sh16lacet": "SH16P_Suff12_JLacet"
+    "sh16lacet": "SH16P_Suff12_JLacet",
+}
+
+# Rename racial/ethnic group names.
+groups = {
+    "HVAP": "Hispanic",
+    "OVAP": "Other",
+    "BVAP": "Black"
 }
 
 merged = merged.rename(cmap, axis=1)
+merged = merged.drop(
+    [c for c in list(merged) if "none" in c.lower() or "blank" in c.lower()] + \
+    ["dahill", "turnbull"],
+axis=1)
 merged = merged[~(merged["race"] == "WVAP")]
+merged["race"] = merged["race"].apply(lambda g: groups[g])
 merged = merged.fillna(0)
 merged.to_csv("./data/massachusetts-2020-ei.csv", index=False)
