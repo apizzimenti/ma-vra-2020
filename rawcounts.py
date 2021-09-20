@@ -69,4 +69,4 @@ cmap = {
 merged = merged.rename(cmap, axis=1)
 merged = merged[~(merged["race"] == "WVAP")]
 merged = merged.fillna(0)
-merged.to_csv("./data/essex-elections.csv", index=False)
+merged.to_csv("./data/massachusetts-2020-ei.csv", index=False)
